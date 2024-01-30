@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "573713430790",
+    "firebase_url": "https://anak-mude-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "anak-mude",
+    "storage_bucket": "anak-mude.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573713430790:android:61574cdff81ecc26184687",
+        "android_client_info": {
+          "package_name": "com.example.anak_mude_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD5BBZAVJ9cJtOfl7hVYM0ZC6zKp37Cl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
